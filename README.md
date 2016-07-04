@@ -51,7 +51,6 @@ OGLplus is a collection of open-source, cross-platform libraries which implement
 **glium**
 OpenGL的Rust封装 https://github.com/tomaka/glium
 
-
 ##库
 **NanoGUI**  
 Minimalistic GUI library for OpenGL  
@@ -59,7 +58,8 @@ https://github.com/wjakob/nanogui
 NanoGUI is a a minimalistic cross-platform widget library for OpenGL 3.x. It supports automatic layout generation, stateful C++11 lambdas callbacks, a variety of useful widget types and Retina-capable rendering on Apple devices thanks to NanoVG by Mikko Mononen. Python bindings of all functionality are provided using pybind11.  
 
 **kiUi**  
-Auto-layout Ui library, lightweight, skinnable and system agnostic, with an OpenGL backend https://github.com/hugoam/kiui  
+Auto-layout Ui library, lightweight, skinnable and system agnostic, with an OpenGL backend  
+https://github.com/hugoam/kiui  
 
 **glfw**  
 https://github.com/glfw/glfw  
@@ -90,3 +90,10 @@ http://www.willusher.io/pages/sdl2/index.html
 **awesome-opengl**  
 https://github.com/eug/awesome-opengl  
 A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
+
+**shadertoy**  
+https://www.shadertoy.com/
+
+**FFTOcean**
+Ocean Simulation Using FFT — C++, OpenGL, glut
+https://github.com/CSWest/FFTOcean
