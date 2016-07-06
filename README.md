@@ -38,6 +38,12 @@ https://github.com/daw42/glslcookbook
 https://github.com/McNopper/OpenGL  
 http://nopper.tv/  
 
+**OpenGL Samples Pack**
+https://github.com/g-truc/ogl-samples
+The OpenGL Samples Pack is a collection of OpenGL samples based on the OpenGL "core profile" specifications.  
+The project aims to promote the new OpenGL features making easier version transitions for OpenGL programmers with a complementary documentation for the OpenGL specification. Despite the fact that the OpenGL Samples Pack provides as simple (and dumb) as possible samples, it's not a tutorial for beginner but a project for programmers already familiar with OpenGL. The OpenGL Samples Pack is also a good OpenGL drivers feature test.  
+These samples use FreeGLUT to create window and an OpenGL context, GLEW to load OpenGL implementations, GLM as math library and to replace OpenGL fixed pipeline functions and GLI to load images.  
+
 ##封装
 
 **glbinding**  
@@ -97,3 +103,28 @@ https://www.shadertoy.com/
 **FFTOcean**
 Ocean Simulation Using FFT — C++, OpenGL, glut
 https://github.com/CSWest/FFTOcean
+
+**OpenGL 4.5 Reference Pages**
+https://www.opengl.org/sdk/docs/man4/index.php
+
+**glm**
+https://github.com/g-truc/glm
+
+**gli**
+https://github.com/g-truc/gli
+
+**opengl wiki**
+https://www.opengl.org/wiki/Getting_Started
+
+**nvidia gameworks**
+https://developer.nvidia.com/gameworks
+https://developer.nvidia.com/gameworks-vulkan-and-opengl-samples  各种特效集合
+
+**songho**
+http://www.songho.ca/opengl/index.html
+
+**glintercept**
+https://github.com/dtrebilco/glintercept opengl调试工具，好像只有windows版本，安装文件只有1M左右，很小。需要注意的是64位安装程序只能用于64位opengl程序的调试，32位的用于32位OpenGL程序。最好还是直接用zip包。
+
+**zwqxin**
+http://zwqxin.com/
