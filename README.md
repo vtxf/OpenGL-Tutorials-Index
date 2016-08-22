@@ -18,9 +18,6 @@ http://www.opengl-tutorial.org/
 https://github.com/JoeyDeVries/LearnOpenGL  
 http://learnopengl.com/
 
-**OpenGL 3 and 4 with GLSL**  
-https://github.com/McNopper/OpenGL
-
 **shader-school**  
 https://github.com/stackgl/shader-school
 
@@ -43,6 +40,8 @@ https://github.com/daw42/glslcookbook
 **OpenGL 3 and OpenGL 4 with GLSL**  
 https://github.com/McNopper/OpenGL  
 http://nopper.tv/  
+依赖GLUS库（https://github.com/McNopper/GLUS），没有cmake配置文件。官方要求安装Eclipse进行编译。  
+例子很全面，包含ray-tracing、BRDF、Computer Shader、Shader Volumes等。  
 
 **OpenGL Samples Pack**
 https://github.com/g-truc/ogl-samples
