@@ -43,11 +43,12 @@ http://nopper.tv/
 依赖GLUS库（https://github.com/McNopper/GLUS），没有cmake配置文件。官方要求安装Eclipse进行编译。  
 例子很全面，包含ray-tracing、BRDF、Computer Shader、Shader Volumes等。  
 
-**OpenGL Samples Pack**
-https://github.com/g-truc/ogl-samples
-The OpenGL Samples Pack is a collection of OpenGL samples based on the OpenGL "core profile" specifications.  
-The project aims to promote the new OpenGL features making easier version transitions for OpenGL programmers with a complementary documentation for the OpenGL specification. Despite the fact that the OpenGL Samples Pack provides as simple (and dumb) as possible samples, it's not a tutorial for beginner but a project for programmers already familiar with OpenGL. The OpenGL Samples Pack is also a good OpenGL drivers feature test.  
-These samples use FreeGLUT to create window and an OpenGL context, GLEW to load OpenGL implementations, GLM as math library and to replace OpenGL fixed pipeline functions and GLI to load images.  
+**OpenGL Samples Pack**  
+https://github.com/g-truc/ogl-samples  
+The OpenGL Samples Pack is a collection of OpenGL samples based on the OpenGL "core profile" specifications.    
+The project aims to promote the new OpenGL features making easier version transitions for OpenGL programmers with a complementary documentation for the OpenGL specification. Despite the fact that the OpenGL Samples Pack provides as simple (and dumb) as possible samples, it's not a tutorial for beginner but a project for programmers already familiar with OpenGL. The OpenGL Samples Pack is also a good OpenGL drivers feature test.    
+These samples use FreeGLUT to create window and an OpenGL context, GLEW to load OpenGL implementations, GLM as math library and to replace OpenGL fixed pipeline functions and GLI to load images.    
+可以使用cmake配置工程，VS2015配置没有问题。例子很全面。
 
 ##封装
 
