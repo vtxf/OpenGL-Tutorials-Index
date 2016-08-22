@@ -21,6 +21,9 @@ http://learnopengl.com/
 **OpenGL 3 and 4 with GLSL**  
 https://github.com/McNopper/OpenGL
 
+**shader-school**  
+https://github.com/stackgl/shader-school
+
 ##例子
 
 **GameWorks cross-platform graphics API samples**  
