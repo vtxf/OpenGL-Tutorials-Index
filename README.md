@@ -18,6 +18,9 @@ http://www.opengl-tutorial.org/
 https://github.com/JoeyDeVries/LearnOpenGL  
 http://learnopengl.com/
 
+**OpenGL 3 and 4 with GLSL**
+https://github.com/McNopper/OpenGL
+
 ##例子
 
 **GameWorks cross-platform graphics API samples**  
