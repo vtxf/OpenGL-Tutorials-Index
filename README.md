@@ -98,6 +98,9 @@ https://github.com/mapbox/mapbox-gl-js
 **webgl-lessons**  
 https://github.com/gpjt/webgl-lessons  
 
+**webgl-workshop**  
+https://github.com/stackgl/webgl-workshop  
+
 **gl-react**
 https://github.com/ProjectSeptemberInc/gl-react  
 http://stack.gl/  
