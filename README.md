@@ -21,6 +21,10 @@ http://learnopengl.com/
 **shader-school**  
 https://github.com/stackgl/shader-school
 
+##参考资料
+**cg函数查询**
+http://http.developer.nvidia.com/Cg/index_stdlib.html
+
 ##例子
 
 **GameWorks cross-platform graphics API samples**  
@@ -163,3 +167,6 @@ http://zwqxin.com/
 
 **ocean**  
 https://github.com/jbouny/ocean
+
+**shadertoy创始人的个人网址**
+http://www.iquilezles.org/www/index.htm
