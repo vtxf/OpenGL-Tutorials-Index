@@ -24,6 +24,8 @@ https://github.com/stackgl/shader-school
 ##参考资料
 **cg函数查询**
 http://http.developer.nvidia.com/Cg/index_stdlib.html
+**opengl官方文档**
+https://www.opengl.org/sdk/docs/
 
 ##例子
 
