@@ -17,10 +17,10 @@ http://www.opengl-tutorial.org/
 **LearnOpenGL**  
 https://github.com/JoeyDeVries/LearnOpenGL  
 http://learnopengl.com/
-这个教程现在还有两个中文版：
-https://learnopengl-cn.github.io/
-http://bullteacher.com/category/zh_learnopengl_com
-源码可以用cmake配置，比较方便。
+这个教程现在还有两个中文版：  
+https://learnopengl-cn.github.io/  
+http://bullteacher.com/category/zh_learnopengl_com  
+源码可以用cmake配置，比较方便。  
 
 **shader-school**  
 https://github.com/stackgl/shader-school
