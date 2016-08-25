@@ -17,14 +17,19 @@ http://www.opengl-tutorial.org/
 **LearnOpenGL**  
 https://github.com/JoeyDeVries/LearnOpenGL  
 http://learnopengl.com/
+这个教程现在还有两个中文版：
+https://learnopengl-cn.github.io/
+http://bullteacher.com/category/zh_learnopengl_com
+源码可以用cmake配置，比较方便。
 
 **shader-school**  
 https://github.com/stackgl/shader-school
 
 ##参考资料
-**cg函数查询**
-http://http.developer.nvidia.com/Cg/index_stdlib.html
-**opengl官方文档**
+**cg函数查询**  
+http://http.developer.nvidia.com/Cg/index_stdlib.html  
+
+**opengl官方文档**  
 https://www.opengl.org/sdk/docs/
 
 ##例子
@@ -62,12 +67,12 @@ These samples use FreeGLUT to create window and an OpenGL context, GLEW to load 
 A C++ binding for the OpenGL API, generated using the gl.xml specification.  
 https://github.com/cginternals/glbinding
 
-**OGLplus **
-https://github.com/matus-chochlik/oglplus
+**OGLplus**  
+https://github.com/matus-chochlik/oglplus  
 OGLplus is a collection of open-source, cross-platform libraries which implement an object-oriented facade over the OpenGL® (version 3 and higher) and also OpenAL® (version 1.1) and EGL (version 1.4) C-language APIs. It provides wrappers which automate resource and object management and make the use of these libraries in C++ safer and more convenient.
 
-**glium**
-OpenGL的Rust封装 https://github.com/tomaka/glium
+**glium**  
+OpenGL的Rust封装 https://github.com/tomaka/glium  
 
 ##库
 **NanoGUI**  
@@ -90,10 +95,10 @@ Its goal is to simplify low-level graphics development and interaction with Open
 **Babylon.js**  
 https://github.com/BabylonJS/Babylon.js
 
-**PlayCanvas WebGL Game Engine**
+**PlayCanvas WebGL Game Engine**  
 https://github.com/playcanvas/engine
 
-**WebGL Globe**  
+**WebGL Globe** 
 https://github.com/dataarts/webgl-globe  
 WebGL Globe is a platform for visualizing latitude longitude based information using WebGL.  
 
@@ -107,18 +112,18 @@ https://github.com/gpjt/webgl-lessons
 **webgl-workshop**  
 https://github.com/stackgl/webgl-workshop  
 
-**gl-react**
+**gl-react**  
 https://github.com/ProjectSeptemberInc/gl-react  
 http://stack.gl/  
 http://glsl.io/  
 
-**webgl-sample-pack**
-https://github.com/WebGLSamples/WebGL2Samples
-WebGL2.0的例子，目前Chrome稳定版打不开。需要下载专门的Chrome Canary版才可以使用。
+**webgl-sample-pack**  
+https://github.com/WebGLSamples/WebGL2Samples  
+WebGL2.0的例子，目前Chrome稳定版打不开。需要下载专门的Chrome Canary版才可以使用。  
 
-**WebGL101**
-https://github.com/emoller/WebGL101
-WebGL基本使用范例。
+**WebGL101**  
+https://github.com/emoller/WebGL101  
+WebGL基本使用范例。  
 
 ##其他
 
