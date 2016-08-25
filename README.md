@@ -114,6 +114,11 @@ http://glsl.io/
 
 **webgl-sample-pack**
 https://github.com/WebGLSamples/WebGL2Samples
+WebGL2.0的例子，目前Chrome稳定版打不开。需要下载专门的Chrome Canary版才可以使用。
+
+**WebGL101**
+https://github.com/emoller/WebGL101
+WebGL基本使用范例。
 
 ##其他
 
