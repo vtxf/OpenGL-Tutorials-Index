@@ -25,6 +25,9 @@ http://bullteacher.com/category/zh_learnopengl_com
 **shader-school**  
 https://github.com/stackgl/shader-school
 
+**glslcookbook**  
+https://github.com/daw42/glslcookbook  
+
 ##参考资料
 **cg函数查询**  
 http://http.developer.nvidia.com/Cg/index_stdlib.html
