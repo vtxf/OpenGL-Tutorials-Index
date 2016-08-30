@@ -193,3 +193,6 @@ https://github.com/jbouny/ocean
 
 **shadertoy创始人的个人网址**
 http://www.iquilezles.org/www/index.htm
+
+**Unity ShaderLab的VS插件**
+https://github.com/wudixiaop/ShaderlabVS
