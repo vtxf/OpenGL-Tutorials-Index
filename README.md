@@ -1,8 +1,8 @@
-#OpenGL教程集合
+# OpenGL教程集合
 
-> 对GitHub库中和OpenGL相关的一些资料的总结。2016.7.3
+> 对GitHub库中和OpenGL相关的一些资料的总结。2016.7.3  
 
-##教程
+## 教程
 
 **Anton's OpenGL 4 Tutorials**  
 https://github.com/capnramses/antons_opengl_tutorials_book  
@@ -67,22 +67,22 @@ https://github.com/g-truc/ogl-samples
 The OpenGL Samples Pack is a collection of OpenGL samples based on the OpenGL "core profile" specifications.    
 The project aims to promote the new OpenGL features making easier version transitions for OpenGL programmers with a complementary documentation for the OpenGL specification. Despite the fact that the OpenGL Samples Pack provides as simple (and dumb) as possible samples, it's not a tutorial for beginner but a project for programmers already familiar with OpenGL. The OpenGL Samples Pack is also a good OpenGL drivers feature test.    
 These samples use FreeGLUT to create window and an OpenGL context, GLEW to load OpenGL implementations, GLM as math library and to replace OpenGL fixed pipeline functions and GLI to load images.    
-可以使用cmake配置工程，VS2015配置没有问题。例子很全面。
+可以使用cmake配置工程，VS2015配置没有问题。例子很全面。  
 
-##封装
+## 封装
 
 **glbinding**  
-A C++ binding for the OpenGL API, generated using the gl.xml specification.  
-https://github.com/cginternals/glbinding
+A C++ binding for the OpenGL API, generated using the gl.xml specification.   
+https://github.com/cginternals/glbinding  
 
 **OGLplus**  
 https://github.com/matus-chochlik/oglplus  
-OGLplus is a collection of open-source, cross-platform libraries which implement an object-oriented facade over the OpenGL® (version 3 and higher) and also OpenAL® (version 1.1) and EGL (version 1.4) C-language APIs. It provides wrappers which automate resource and object management and make the use of these libraries in C++ safer and more convenient.
+OGLplus is a collection of open-source, cross-platform libraries which implement an object-oriented facade over the OpenGL® (version 3 and higher) and also OpenAL® (version 1.1) and EGL (version 1.4) C-language APIs. It provides wrappers which automate resource and object management and make the use of these libraries in C++ safer and more convenient.  
 
 **glium**  
 OpenGL的Rust封装 https://github.com/tomaka/glium  
 
-##库
+## 库
 **NanoGUI**  
 Minimalistic GUI library for OpenGL  
 https://github.com/wjakob/nanogui  
@@ -97,14 +97,14 @@ https://github.com/glfw/glfw
 
 **magnum**  
 https://github.com/mosra/magnum  
-Its goal is to simplify low-level graphics development and interaction with OpenGL using recent C++11/C++14 features and to abstract away platform-specific issues.
+Its goal is to simplify low-level graphics development and interaction with OpenGL using recent C++11/C++14 features and to abstract away platform-specific issues.  
 
 ##WebGL  
 **Babylon.js**  
-https://github.com/BabylonJS/Babylon.js
+https://github.com/BabylonJS/Babylon.js  
 
 **PlayCanvas WebGL Game Engine**  
-https://github.com/playcanvas/engine
+https://github.com/playcanvas/engine  
 
 **WebGL Globe** 
 https://github.com/dataarts/webgl-globe  
@@ -133,7 +133,7 @@ WebGL2.0的例子，目前Chrome稳定版打不开。需要下载专门的Chrome
 https://github.com/emoller/WebGL101  
 WebGL基本使用范例。  
 
-##其他
+## 其他
 
 **ANGLE - Almost Native Graphics Layer Engine**  
 https://github.com/google/angle  
@@ -141,58 +141,58 @@ https://github.com/google/angle
 **Tools for tracing OpenGL, Direct3D, and other graphics APIs**  
 https://github.com/apitrace/apitrace  
 http://apitrace.github.io/  
-类似的软件有RenderDoc、vkTrace、Visual Studio Graphics Debugger、Nvidia的Nsight、AMD的CodeXL、废弃了但是还很好用的gDebugger(被CodeXL取代)、PIX(被Visual Studio Graphics Debugger取代)
+类似的软件有RenderDoc、vkTrace、Visual Studio Graphics Debugger、Nvidia的Nsight、AMD的CodeXL、废弃了但是还很好用的gDebugger(被CodeXL取代)、PIX(被Visual Studio Graphics Debugger取代)  
 
 **Dead Simple OpenGL (Graphics)**  
 https://github.com/Polytonic/Glitter  
-http://polytonic.github.io/Glitter/  
-Glitter is a dead simple boilerplate for OpenGL, intended as a starting point for the tutorials on learnopengl.com and open.gl. Glitter compiles and statically links every required library, so you can jump right into doing what you probably want: how to get started with OpenGL.
+http://polytonic.github.io/Glitter/   
+Glitter is a dead simple boilerplate for OpenGL, intended as a starting point for the tutorials on learnopengl.com and open.gl. Glitter compiles and statically links every required library, so you can jump right into doing what you probably want: how to get started with OpenGL.  
 
 **TwinklebearDev-Lessons SDL 2.0 Lessons**  
 https://github.com/Twinklebear/TwinklebearDev-Lessons  
 http://www.willusher.io/pages/sdl2/index.html  
 
 **awesome-opengl**  
-https://github.com/eug/awesome-opengl  
-A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
+https://github.com/eug/awesome-opengl    
+A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.  
 
 **shadertoy**  
-https://www.shadertoy.com/
+https://www.shadertoy.com/  
 
 **FFTOcean**
-Ocean Simulation Using FFT — C++, OpenGL, glut
-https://github.com/CSWest/FFTOcean
+Ocean Simulation Using FFT — C++, OpenGL, glut  
+https://github.com/CSWest/FFTOcean  
 
 **OpenGL 4.5 Reference Pages**
-https://www.opengl.org/sdk/docs/man4/index.php
+https://www.opengl.org/sdk/docs/man4/index.php  
 
 **glm**
-https://github.com/g-truc/glm
+https://github.com/g-truc/glm  
 
 **gli**
-https://github.com/g-truc/gli
+https://github.com/g-truc/gli  
 
 **opengl wiki**
-https://www.opengl.org/wiki/Getting_Started
+https://www.opengl.org/wiki/Getting_Started  
 
 **nvidia gameworks**
-https://developer.nvidia.com/gameworks
-https://developer.nvidia.com/gameworks-vulkan-and-opengl-samples  各种特效集合
+https://developer.nvidia.com/gameworks  
+https://developer.nvidia.com/gameworks-vulkan-and-opengl-samples  各种特效集合  
 
 **songho**
-http://www.songho.ca/opengl/index.html
+http://www.songho.ca/opengl/index.html  
 
 **glintercept**
-https://github.com/dtrebilco/glintercept opengl调试工具，好像只有windows版本，安装文件只有1M左右，很小。需要注意的是64位安装程序只能用于64位opengl程序的调试，32位的用于32位OpenGL程序。最好还是直接用zip包。
+https://github.com/dtrebilco/glintercept opengl调试工具，好像只有windows版本，安装文件只有1M左右，很小。需要注意的是64位安装程序只能用于64位opengl程序的调试，32位的用于32位OpenGL程序。最好还是直接用zip包。  
 
 **zwqxin**
-http://zwqxin.com/
+http://zwqxin.com/  
 
 **ocean**  
-https://github.com/jbouny/ocean
+https://github.com/jbouny/ocean  
 
 **shadertoy创始人的个人网址**
-http://www.iquilezles.org/www/index.htm
+http://www.iquilezles.org/www/index.htm  
 
 **Unity ShaderLab的VS插件**
-https://github.com/wudixiaop/ShaderlabVS
+https://github.com/wudixiaop/ShaderlabVS  
