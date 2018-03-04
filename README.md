@@ -40,7 +40,7 @@ OpenGL registry：包含OpenGL各版本的规范和扩展
 **opengl官方文档**  
 https://www.opengl.org/sdk/docs/
 
-##例子
+## 例子
 
 **GameWorks cross-platform graphics API samples**  
 https://github.com/NVIDIAGameWorks/GraphicsSamples  
@@ -99,7 +99,7 @@ https://github.com/glfw/glfw
 https://github.com/mosra/magnum  
 Its goal is to simplify low-level graphics development and interaction with OpenGL using recent C++11/C++14 features and to abstract away platform-specific issues.  
 
-##WebGL  
+## WebGL  
 **Babylon.js**  
 https://github.com/BabylonJS/Babylon.js  
 
@@ -196,3 +196,8 @@ http://www.iquilezles.org/www/index.htm
 
 **Unity ShaderLab的VS插件**  
 https://github.com/wudixiaop/ShaderlabVS  
+
+Debugging OpenGL  
+Debugging OpenGL part 1 – using glGetError() https://blog.nobel-joergensen.com/2013/01/29/debugging-opengl-using-glgeterror/  
+Debugging OpenGL part 2 – using glDebugMessageCallback() https://blog.nobel-joergensen.com/2013/02/17/debugging-opengl-part-2-using-gldebugmessagecallback/  
+Debugging OpenGL part 3 – using 3rd party debug tools https://blog.nobel-joergensen.com/2013/03/10/debugging-opengl-part-3-using-tools/  
