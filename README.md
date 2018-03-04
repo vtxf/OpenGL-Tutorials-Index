@@ -1,6 +1,6 @@
 # OpenGL教程集合
 
-> 对GitHub库中和OpenGL相关的一些资料的总结。2016.7.3  
+> 对GitHub库中和OpenGL相关的一些资料的总结。2016.7.3 2018/3/4
 
 ## 教程
 
@@ -156,43 +156,43 @@ http://www.willusher.io/pages/sdl2/index.html
 https://github.com/eug/awesome-opengl    
 A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.  
 
-**shadertoy**  
+**shadertoy**   
 https://www.shadertoy.com/  
 
-**FFTOcean**
+**FFTOcean**  
 Ocean Simulation Using FFT — C++, OpenGL, glut  
 https://github.com/CSWest/FFTOcean  
 
-**OpenGL 4.5 Reference Pages**
+**OpenGL 4.5 Reference Pages**  
 https://www.opengl.org/sdk/docs/man4/index.php  
 
-**glm**
+**glm**  
 https://github.com/g-truc/glm  
 
-**gli**
+**gli**  
 https://github.com/g-truc/gli  
 
-**opengl wiki**
+**opengl wiki**  
 https://www.opengl.org/wiki/Getting_Started  
 
-**nvidia gameworks**
+**nvidia gameworks**  
 https://developer.nvidia.com/gameworks  
 https://developer.nvidia.com/gameworks-vulkan-and-opengl-samples  各种特效集合  
 
-**songho**
+**songho**  
 http://www.songho.ca/opengl/index.html  
 
-**glintercept**
+**glintercept**  
 https://github.com/dtrebilco/glintercept opengl调试工具，好像只有windows版本，安装文件只有1M左右，很小。需要注意的是64位安装程序只能用于64位opengl程序的调试，32位的用于32位OpenGL程序。最好还是直接用zip包。  
 
-**zwqxin**
+**zwqxin**  
 http://zwqxin.com/  
 
-**ocean**  
+**ocean**   
 https://github.com/jbouny/ocean  
 
-**shadertoy创始人的个人网址**
+**shadertoy创始人的个人网址**  
 http://www.iquilezles.org/www/index.htm  
 
-**Unity ShaderLab的VS插件**
+**Unity ShaderLab的VS插件**  
 https://github.com/wudixiaop/ShaderlabVS  
