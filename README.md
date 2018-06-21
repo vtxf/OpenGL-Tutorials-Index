@@ -1,6 +1,6 @@
 # OpenGL教程集合
 
-> 对GitHub库中和OpenGL相关的一些资料的总结。最后更新于2018/3/4
+> 对GitHub库中和OpenGL相关的一些资料的总结。最后更新于2018/6/21
 
 ## 教程
 
@@ -114,6 +114,19 @@ https://github.com/uber/luma.gl
 Uber出品的WebGL2版本的地理数据可视化库，基于luma.gl实现  
 WebGL2 powered geospatial visualization layers  
 https://github.com/uber/deck.gl  
+
+**claygl**
+百度ECharts底层使用的WebGL库  
+https://github.com/pissang/claygl
+
+**echarts-gl**
+百度ECHarts的WebGL扩展，基于claygl实现
+https://github.com/ecomfe/echarts-gl
+
+**xeogl**  
+一个针对 BIM 领域的webgl库，BIMserver中浏览插件所使用的底层webgl库，pbr效果不错
+A WebGL-based 3D engine for visualization in engineering, architecture and BIM  
+https://github.com/xeolabs/xeogl
 
 **Babylon.js**  
 https://github.com/BabylonJS/Babylon.js  
